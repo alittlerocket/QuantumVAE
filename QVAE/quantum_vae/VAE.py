@@ -1,6 +1,6 @@
+import torch
 import pennylane as qml
 from pennylane import numpy as np
-import torch
 from torch.optim import Adam
 
 class QuantumVAE:
