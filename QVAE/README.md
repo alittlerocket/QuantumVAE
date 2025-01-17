@@ -1,5 +1,3 @@
-Sure! Here is a basic README for your Quantum VAE project:
-
 ---
 
 # Quantum Variational Autoencoder (VAE) with MNIST
